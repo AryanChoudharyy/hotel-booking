@@ -6,7 +6,7 @@ This project is a hotel booking chatbot that uses AI to assist users with their 
 
 This project has not been deployed yet. However, you can visit the following link to see a demonstration of how the chatbot functions:
 
-[Hotel Booking Chatbot Demo]()
+Hotel booking chatbot demo --> https://youtu.be/-oysHS6RmwY
 
 Please note that the demo is for visualization purposes only. To run and test the actual project, follow the setup instructions below.
 
