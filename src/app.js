@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('Welcome to the Hotel Booking Chatbot API using Llama');
+  res.send('Welcome to the Hotel Booking Chatbot API using openAI');
 });
 
 // Use chat routes
